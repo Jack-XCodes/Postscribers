@@ -1,0 +1,1 @@
+# Postscribers... the app is a blog which allows people post their content from pictures to written text.Any one wishing to fork the repository should know that the files are to be in one folder and ran as one.
